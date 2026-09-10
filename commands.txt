@@ -1,0 +1,50 @@
+pwd
+ls
+ls -1
+ls -a
+ls -lh
+whoami
+id
+hostname
+hostname -I
+date
+uname -a
+uname -r
+uptime
+which bash
+whereis bash
+echo 
+printf
+cat /etc/os-release
+cat /proc/cpuinfo
+cat /proc/meminfo
+lscpu
+lsblk
+free -h
+df -h
+du -sh ~
+ps
+ps aux
+top -b -n 1
+pgrep bash
+free
+ip addr
+ip route
+ping -c 4 8.8.8.8
+ss -tuln
+ip link
+lsusb
+lspci
+getent hosts google.com
+cat /etc/hostname
+cat /etc/ hosts
+grep "root" /etc/passwd
+getent passwd
+sort /etc/passwd
+env
+printenv HOME
+echo $SHELL
+groups
+basename /home/$USER
+dirname /home/$USER/Documents
+man ls
